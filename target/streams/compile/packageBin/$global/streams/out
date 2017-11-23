@@ -1,0 +1,37 @@
+[0m[[0minfo[0m] [0mPackaging /Users/ronalddennison/Projects/websocket-akka-http-stage_1/target/scala-2.11/websocket-akka-http_2.11-1.0.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	io/scalac/akka/http/websockets/Server$.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/ronalddennison/Projects/websocket-akka-http-stage_1/target/scala-2.11/classes/io/scalac/akka/http/websockets/Server$.class[0m
+[0m[[0mdebug[0m] [0m	io/scalac/akka/http[0m
+[0m[[0mdebug[0m] [0m	  /Users/ronalddennison/Projects/websocket-akka-http-stage_1/target/scala-2.11/classes/io/scalac/akka/http[0m
+[0m[[0mdebug[0m] [0m	io/scalac/akka/http/websockets/Server$$anonfun$2$$anonfun$apply$3.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/ronalddennison/Projects/websocket-akka-http-stage_1/target/scala-2.11/classes/io/scalac/akka/http/websockets/Server$$anonfun$2$$anonfun$apply$3.class[0m
+[0m[[0mdebug[0m] [0m	application.conf[0m
+[0m[[0mdebug[0m] [0m	  /Users/ronalddennison/Projects/websocket-akka-http-stage_1/target/scala-2.11/classes/application.conf[0m
+[0m[[0mdebug[0m] [0m	io/scalac/akka[0m
+[0m[[0mdebug[0m] [0m	  /Users/ronalddennison/Projects/websocket-akka-http-stage_1/target/scala-2.11/classes/io/scalac/akka[0m
+[0m[[0mdebug[0m] [0m	io/scalac/akka/http/websockets/Server$$anonfun$2.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/ronalddennison/Projects/websocket-akka-http-stage_1/target/scala-2.11/classes/io/scalac/akka/http/websockets/Server$$anonfun$2.class[0m
+[0m[[0mdebug[0m] [0m	io/scalac/akka/http/websockets/Server$$anonfun$1$$anonfun$apply$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/ronalddennison/Projects/websocket-akka-http-stage_1/target/scala-2.11/classes/io/scalac/akka/http/websockets/Server$$anonfun$1$$anonfun$apply$1.class[0m
+[0m[[0mdebug[0m] [0m	io/scalac/akka/http/websockets/Server$$anonfun$5.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/ronalddennison/Projects/websocket-akka-http-stage_1/target/scala-2.11/classes/io/scalac/akka/http/websockets/Server$$anonfun$5.class[0m
+[0m[[0mdebug[0m] [0m	io/scalac/akka/http/websockets/Server$$anonfun$3.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/ronalddennison/Projects/websocket-akka-http-stage_1/target/scala-2.11/classes/io/scalac/akka/http/websockets/Server$$anonfun$3.class[0m
+[0m[[0mdebug[0m] [0m	io/scalac/akka/http/websockets[0m
+[0m[[0mdebug[0m] [0m	  /Users/ronalddennison/Projects/websocket-akka-http-stage_1/target/scala-2.11/classes/io/scalac/akka/http/websockets[0m
+[0m[[0mdebug[0m] [0m	io/scalac/akka/http/websockets/Server$$anonfun$1$$anonfun$apply$1$$anonfun$apply$2.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/ronalddennison/Projects/websocket-akka-http-stage_1/target/scala-2.11/classes/io/scalac/akka/http/websockets/Server$$anonfun$1$$anonfun$apply$1$$anonfun$apply$2.class[0m
+[0m[[0mdebug[0m] [0m	io/scalac/akka/http/websockets/Server$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/ronalddennison/Projects/websocket-akka-http-stage_1/target/scala-2.11/classes/io/scalac/akka/http/websockets/Server$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	io/scalac[0m
+[0m[[0mdebug[0m] [0m	  /Users/ronalddennison/Projects/websocket-akka-http-stage_1/target/scala-2.11/classes/io/scalac[0m
+[0m[[0mdebug[0m] [0m	io/scalac/akka/http/websockets/Server$delayedInit$body.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/ronalddennison/Projects/websocket-akka-http-stage_1/target/scala-2.11/classes/io/scalac/akka/http/websockets/Server$delayedInit$body.class[0m
+[0m[[0mdebug[0m] [0m	io/scalac/akka/http/websockets/Server.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/ronalddennison/Projects/websocket-akka-http-stage_1/target/scala-2.11/classes/io/scalac/akka/http/websockets/Server.class[0m
+[0m[[0mdebug[0m] [0m	io/scalac/akka/http/websockets/Server$$anonfun$4.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/ronalddennison/Projects/websocket-akka-http-stage_1/target/scala-2.11/classes/io/scalac/akka/http/websockets/Server$$anonfun$4.class[0m
+[0m[[0mdebug[0m] [0m	io[0m
+[0m[[0mdebug[0m] [0m	  /Users/ronalddennison/Projects/websocket-akka-http-stage_1/target/scala-2.11/classes/io[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m
