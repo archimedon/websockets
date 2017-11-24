@@ -1,4 +1,4 @@
-enablePlugins(JavaAppPackaging)
+resolvers += "Typesafe Repo" at "http://repo.typesafe.com/typesafe/releases/"
 
 name := "websocket-akka-http"
 
@@ -7,7 +7,6 @@ version := "1.0"
 scalaVersion := "2.11.11"
 
 libraryDependencies ++= {
-//  val akkaHttpVersion = "10.0.10"
   val akkaVersion = "2.5.6"
   val akkaExperimental = "2.4.11.2"
   val akkaHttpVersion = "1.0-RC4"
@@ -18,3 +17,19 @@ libraryDependencies ++= {
     "com.typesafe.akka" %% "akka-http-experimental" % akkaHttpVersion
   )
 }
+enablePlugins(JavaAppPackaging)
+// enablePlugins(JavaServerAppPackaging)
+
+
+javaOptions in Universal ++= Seq(
+    // -J params will be added as jvm parameters
+    "-J-Xmx64m",
+    "-J-Xms64m",
+
+    // others will be added as app parameters
+    "-Dproperty=true",
+    "-port=8080",
+
+    // you can access any build setting/task here
+   s"-version=${version.value}"
+)
