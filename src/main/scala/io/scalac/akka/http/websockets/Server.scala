@@ -59,7 +59,7 @@ object Server extends App {
   // Exit on Ctrl-D
   def isExit(s: String): Boolean = (s == null) || s.headOption.map(_.toInt) == Some(4)
 
-  exitListen()
+ // exitListen()
 
 
   def exitListen() {
