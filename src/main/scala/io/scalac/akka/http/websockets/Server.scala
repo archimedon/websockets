@@ -65,7 +65,7 @@ object Server extends App {
   def exitListen() {
 
     StdIn.readLine match {
-      case x if isExit(x) => shutdown = false; println("Shutting down") ; cleanUp()
+      case x if isExit(x) => println("No way out 1"); exitListen
       case _              => println("No way out"); exitListen
     }
 
