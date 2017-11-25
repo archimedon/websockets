@@ -1,2 +1,2 @@
-web: target/universal/stage/bin/websocket-akka-http -Dhttp.port=${PORT} -DPORT=$PORT -Dserver.port=$PORT
+web: target/universal/stage/bin/websocket-akka-http -Dhttp.port=$PORT -DPORT=$PORT -Dserver.port=$PORT
 console: target/universal/stage/bin/websocket-akka-http -main scala.tools.nsc.MainGenericRunner -usejavacp
