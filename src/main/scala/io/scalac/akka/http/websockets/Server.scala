@@ -28,8 +28,10 @@ object Server extends App {
   val config = actorSystem.settings.config
   val interface = config.getString("app.interface")
 
-  val port = sys.env("PORT").toInt
-  //  val port = config.getInt("app.port")
+  //  val port = sys.env("PORT").toInt
+  val port =
+    if (sys.env.contains("PORT")) sys.env("PORT").toInt
+    else config.getInt("app.port")
 
   import Directives._
 
@@ -51,9 +53,7 @@ object Server extends App {
 
   val binding = Http().bindAndHandle(route, interface, port)
 
-  //  println(s"Server is now online at http://$interface:$port\nPress RETURN to stop...")
   println(s"Server is now online at http://$interface:$port")
-  //  StdIn.readLine()
 
   val mainThread = Thread.currentThread();
 
@@ -63,7 +63,7 @@ object Server extends App {
       if (started) {
         println(s"Shutting down: $applicationName Service")
         started = false
-//        mainThread.join()
+        mainThread.join()
         cleanUp();
         Thread.currentThread.interrupt()
       }
