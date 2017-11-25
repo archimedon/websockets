@@ -20,19 +20,19 @@ name hashing:
 0 -> true
 products:
 13 items
-/Users/ronalddennison/Projects/websocket-akka-http-stage_1/src/main/scala/io/scalac/akka/http/websockets/Server.scala -> /Users/ronalddennison/Projects/websocket-akka-http-stage_1/target/scala-2.11/classes/io/scalac/akka/http/websockets/Server$$anon$1.class
-/Users/ronalddennison/Projects/websocket-akka-http-stage_1/src/main/scala/io/scalac/akka/http/websockets/Server.scala -> /Users/ronalddennison/Projects/websocket-akka-http-stage_1/target/scala-2.11/classes/io/scalac/akka/http/websockets/Server$$anonfun$1$$anonfun$apply$1$$anonfun$apply$2.class
-/Users/ronalddennison/Projects/websocket-akka-http-stage_1/src/main/scala/io/scalac/akka/http/websockets/Server.scala -> /Users/ronalddennison/Projects/websocket-akka-http-stage_1/target/scala-2.11/classes/io/scalac/akka/http/websockets/Server$$anonfun$1$$anonfun$apply$1.class
-/Users/ronalddennison/Projects/websocket-akka-http-stage_1/src/main/scala/io/scalac/akka/http/websockets/Server.scala -> /Users/ronalddennison/Projects/websocket-akka-http-stage_1/target/scala-2.11/classes/io/scalac/akka/http/websockets/Server$$anonfun$1.class
-/Users/ronalddennison/Projects/websocket-akka-http-stage_1/src/main/scala/io/scalac/akka/http/websockets/Server.scala -> /Users/ronalddennison/Projects/websocket-akka-http-stage_1/target/scala-2.11/classes/io/scalac/akka/http/websockets/Server$$anonfun$2$$anonfun$apply$3.class
-/Users/ronalddennison/Projects/websocket-akka-http-stage_1/src/main/scala/io/scalac/akka/http/websockets/Server.scala -> /Users/ronalddennison/Projects/websocket-akka-http-stage_1/target/scala-2.11/classes/io/scalac/akka/http/websockets/Server$$anonfun$2.class
-/Users/ronalddennison/Projects/websocket-akka-http-stage_1/src/main/scala/io/scalac/akka/http/websockets/Server.scala -> /Users/ronalddennison/Projects/websocket-akka-http-stage_1/target/scala-2.11/classes/io/scalac/akka/http/websockets/Server$$anonfun$3.class
-/Users/ronalddennison/Projects/websocket-akka-http-stage_1/src/main/scala/io/scalac/akka/http/websockets/Server.scala -> /Users/ronalddennison/Projects/websocket-akka-http-stage_1/target/scala-2.11/classes/io/scalac/akka/http/websockets/Server$$anonfun$cleanUp$1.class
-/Users/ronalddennison/Projects/websocket-akka-http-stage_1/src/main/scala/io/scalac/akka/http/websockets/Server.scala -> /Users/ronalddennison/Projects/websocket-akka-http-stage_1/target/scala-2.11/classes/io/scalac/akka/http/websockets/Server$$anonfun$cleanUp$2.class
-/Users/ronalddennison/Projects/websocket-akka-http-stage_1/src/main/scala/io/scalac/akka/http/websockets/Server.scala -> /Users/ronalddennison/Projects/websocket-akka-http-stage_1/target/scala-2.11/classes/io/scalac/akka/http/websockets/Server$$anonfun$cleanUp$3.class
-/Users/ronalddennison/Projects/websocket-akka-http-stage_1/src/main/scala/io/scalac/akka/http/websockets/Server.scala -> /Users/ronalddennison/Projects/websocket-akka-http-stage_1/target/scala-2.11/classes/io/scalac/akka/http/websockets/Server$.class
-/Users/ronalddennison/Projects/websocket-akka-http-stage_1/src/main/scala/io/scalac/akka/http/websockets/Server.scala -> /Users/ronalddennison/Projects/websocket-akka-http-stage_1/target/scala-2.11/classes/io/scalac/akka/http/websockets/Server$delayedInit$body.class
-/Users/ronalddennison/Projects/websocket-akka-http-stage_1/src/main/scala/io/scalac/akka/http/websockets/Server.scala -> /Users/ronalddennison/Projects/websocket-akka-http-stage_1/target/scala-2.11/classes/io/scalac/akka/http/websockets/Server.class
+/Users/ronalddennison/Projects/websocket-akka-http-stage_1/src/main/scala/io/scalac/akka/http/websockets/Server.scala -> /Users/ronalddennison/Projects/websocket-akka-http-stage_1/target/scala-2.11/classes/poksockets/Server$$anonfun$1$$anonfun$apply$1$$anonfun$apply$2.class
+/Users/ronalddennison/Projects/websocket-akka-http-stage_1/src/main/scala/io/scalac/akka/http/websockets/Server.scala -> /Users/ronalddennison/Projects/websocket-akka-http-stage_1/target/scala-2.11/classes/poksockets/Server$$anonfun$1$$anonfun$apply$1.class
+/Users/ronalddennison/Projects/websocket-akka-http-stage_1/src/main/scala/io/scalac/akka/http/websockets/Server.scala -> /Users/ronalddennison/Projects/websocket-akka-http-stage_1/target/scala-2.11/classes/poksockets/Server$$anonfun$1.class
+/Users/ronalddennison/Projects/websocket-akka-http-stage_1/src/main/scala/io/scalac/akka/http/websockets/Server.scala -> /Users/ronalddennison/Projects/websocket-akka-http-stage_1/target/scala-2.11/classes/poksockets/Server$$anonfun$2$$anonfun$apply$3.class
+/Users/ronalddennison/Projects/websocket-akka-http-stage_1/src/main/scala/io/scalac/akka/http/websockets/Server.scala -> /Users/ronalddennison/Projects/websocket-akka-http-stage_1/target/scala-2.11/classes/poksockets/Server$$anonfun$2.class
+/Users/ronalddennison/Projects/websocket-akka-http-stage_1/src/main/scala/io/scalac/akka/http/websockets/Server.scala -> /Users/ronalddennison/Projects/websocket-akka-http-stage_1/target/scala-2.11/classes/poksockets/Server$$anonfun$3.class
+/Users/ronalddennison/Projects/websocket-akka-http-stage_1/src/main/scala/io/scalac/akka/http/websockets/Server.scala -> /Users/ronalddennison/Projects/websocket-akka-http-stage_1/target/scala-2.11/classes/poksockets/Server$$anonfun$cleanUp$1.class
+/Users/ronalddennison/Projects/websocket-akka-http-stage_1/src/main/scala/io/scalac/akka/http/websockets/Server.scala -> /Users/ronalddennison/Projects/websocket-akka-http-stage_1/target/scala-2.11/classes/poksockets/Server$$anonfun$cleanUp$2.class
+/Users/ronalddennison/Projects/websocket-akka-http-stage_1/src/main/scala/io/scalac/akka/http/websockets/Server.scala -> /Users/ronalddennison/Projects/websocket-akka-http-stage_1/target/scala-2.11/classes/poksockets/Server$$anonfun$cleanUp$3.class
+/Users/ronalddennison/Projects/websocket-akka-http-stage_1/src/main/scala/io/scalac/akka/http/websockets/Server.scala -> /Users/ronalddennison/Projects/websocket-akka-http-stage_1/target/scala-2.11/classes/poksockets/Server$$anonfun$isExit$1.class
+/Users/ronalddennison/Projects/websocket-akka-http-stage_1/src/main/scala/io/scalac/akka/http/websockets/Server.scala -> /Users/ronalddennison/Projects/websocket-akka-http-stage_1/target/scala-2.11/classes/poksockets/Server$.class
+/Users/ronalddennison/Projects/websocket-akka-http-stage_1/src/main/scala/io/scalac/akka/http/websockets/Server.scala -> /Users/ronalddennison/Projects/websocket-akka-http-stage_1/target/scala-2.11/classes/poksockets/Server$delayedInit$body.class
+/Users/ronalddennison/Projects/websocket-akka-http-stage_1/src/main/scala/io/scalac/akka/http/websockets/Server.scala -> /Users/ronalddennison/Projects/websocket-akka-http-stage_1/target/scala-2.11/classes/poksockets/Server.class
 binary dependencies:
 7 items
 /Users/ronalddennison/Projects/websocket-akka-http-stage_1/src/main/scala/io/scalac/akka/http/websockets/Server.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/jre/lib/rt.jar
@@ -60,24 +60,24 @@ inheritance external dependencies:
 0 items
 class names:
 13 items
-/Users/ronalddennison/Projects/websocket-akka-http-stage_1/src/main/scala/io/scalac/akka/http/websockets/Server.scala -> io.scalac.akka.http.websockets.Server
-/Users/ronalddennison/Projects/websocket-akka-http-stage_1/src/main/scala/io/scalac/akka/http/websockets/Server.scala -> io.scalac.akka.http.websockets.Server$
-/Users/ronalddennison/Projects/websocket-akka-http-stage_1/src/main/scala/io/scalac/akka/http/websockets/Server.scala -> io.scalac.akka.http.websockets.Server$$anon$1
-/Users/ronalddennison/Projects/websocket-akka-http-stage_1/src/main/scala/io/scalac/akka/http/websockets/Server.scala -> io.scalac.akka.http.websockets.Server$$anonfun$1
-/Users/ronalddennison/Projects/websocket-akka-http-stage_1/src/main/scala/io/scalac/akka/http/websockets/Server.scala -> io.scalac.akka.http.websockets.Server$$anonfun$1$$anonfun$apply$1
-/Users/ronalddennison/Projects/websocket-akka-http-stage_1/src/main/scala/io/scalac/akka/http/websockets/Server.scala -> io.scalac.akka.http.websockets.Server$$anonfun$1$$anonfun$apply$1$$anonfun$apply$2
-/Users/ronalddennison/Projects/websocket-akka-http-stage_1/src/main/scala/io/scalac/akka/http/websockets/Server.scala -> io.scalac.akka.http.websockets.Server$$anonfun$2
-/Users/ronalddennison/Projects/websocket-akka-http-stage_1/src/main/scala/io/scalac/akka/http/websockets/Server.scala -> io.scalac.akka.http.websockets.Server$$anonfun$2$$anonfun$apply$3
-/Users/ronalddennison/Projects/websocket-akka-http-stage_1/src/main/scala/io/scalac/akka/http/websockets/Server.scala -> io.scalac.akka.http.websockets.Server$$anonfun$3
-/Users/ronalddennison/Projects/websocket-akka-http-stage_1/src/main/scala/io/scalac/akka/http/websockets/Server.scala -> io.scalac.akka.http.websockets.Server$$anonfun$cleanUp$1
-/Users/ronalddennison/Projects/websocket-akka-http-stage_1/src/main/scala/io/scalac/akka/http/websockets/Server.scala -> io.scalac.akka.http.websockets.Server$$anonfun$cleanUp$2
-/Users/ronalddennison/Projects/websocket-akka-http-stage_1/src/main/scala/io/scalac/akka/http/websockets/Server.scala -> io.scalac.akka.http.websockets.Server$$anonfun$cleanUp$3
-/Users/ronalddennison/Projects/websocket-akka-http-stage_1/src/main/scala/io/scalac/akka/http/websockets/Server.scala -> io.scalac.akka.http.websockets.Server$delayedInit$body
+/Users/ronalddennison/Projects/websocket-akka-http-stage_1/src/main/scala/io/scalac/akka/http/websockets/Server.scala -> poksockets.Server
+/Users/ronalddennison/Projects/websocket-akka-http-stage_1/src/main/scala/io/scalac/akka/http/websockets/Server.scala -> poksockets.Server$
+/Users/ronalddennison/Projects/websocket-akka-http-stage_1/src/main/scala/io/scalac/akka/http/websockets/Server.scala -> poksockets.Server$$anonfun$1
+/Users/ronalddennison/Projects/websocket-akka-http-stage_1/src/main/scala/io/scalac/akka/http/websockets/Server.scala -> poksockets.Server$$anonfun$1$$anonfun$apply$1
+/Users/ronalddennison/Projects/websocket-akka-http-stage_1/src/main/scala/io/scalac/akka/http/websockets/Server.scala -> poksockets.Server$$anonfun$1$$anonfun$apply$1$$anonfun$apply$2
+/Users/ronalddennison/Projects/websocket-akka-http-stage_1/src/main/scala/io/scalac/akka/http/websockets/Server.scala -> poksockets.Server$$anonfun$2
+/Users/ronalddennison/Projects/websocket-akka-http-stage_1/src/main/scala/io/scalac/akka/http/websockets/Server.scala -> poksockets.Server$$anonfun$2$$anonfun$apply$3
+/Users/ronalddennison/Projects/websocket-akka-http-stage_1/src/main/scala/io/scalac/akka/http/websockets/Server.scala -> poksockets.Server$$anonfun$3
+/Users/ronalddennison/Projects/websocket-akka-http-stage_1/src/main/scala/io/scalac/akka/http/websockets/Server.scala -> poksockets.Server$$anonfun$cleanUp$1
+/Users/ronalddennison/Projects/websocket-akka-http-stage_1/src/main/scala/io/scalac/akka/http/websockets/Server.scala -> poksockets.Server$$anonfun$cleanUp$2
+/Users/ronalddennison/Projects/websocket-akka-http-stage_1/src/main/scala/io/scalac/akka/http/websockets/Server.scala -> poksockets.Server$$anonfun$cleanUp$3
+/Users/ronalddennison/Projects/websocket-akka-http-stage_1/src/main/scala/io/scalac/akka/http/websockets/Server.scala -> poksockets.Server$$anonfun$isExit$1
+/Users/ronalddennison/Projects/websocket-akka-http-stage_1/src/main/scala/io/scalac/akka/http/websockets/Server.scala -> poksockets.Server$delayedInit$body
 used names:
-106 items
-/Users/ronalddennison/Projects/websocket-akka-http-stage_1/src/main/scala/io/scalac/akka/http/websockets/Server.scala -> $anon
+105 items
 /Users/ronalddennison/Projects/websocket-akka-http-stage_1/src/main/scala/io/scalac/akka/http/websockets/Server.scala -> +
 /Users/ronalddennison/Projects/websocket-akka-http-stage_1/src/main/scala/io/scalac/akka/http/websockets/Server.scala -> <init>
+/Users/ronalddennison/Projects/websocket-akka-http-stage_1/src/main/scala/io/scalac/akka/http/websockets/Server.scala -> ==
 /Users/ronalddennison/Projects/websocket-akka-http-stage_1/src/main/scala/io/scalac/akka/http/websockets/Server.scala -> ActorMaterializer
 /Users/ronalddennison/Projects/websocket-akka-http-stage_1/src/main/scala/io/scalac/akka/http/websockets/Server.scala -> ActorSystem
 /Users/ronalddennison/Projects/websocket-akka-http-stage_1/src/main/scala/io/scalac/akka/http/websockets/Server.scala -> App
@@ -86,6 +86,7 @@ used names:
 /Users/ronalddennison/Projects/websocket-akka-http-stage_1/src/main/scala/io/scalac/akka/http/websockets/Server.scala -> Directives
 /Users/ronalddennison/Projects/websocket-akka-http-stage_1/src/main/scala/io/scalac/akka/http/websockets/Server.scala -> Flow
 /Users/ronalddennison/Projects/websocket-akka-http-stage_1/src/main/scala/io/scalac/akka/http/websockets/Server.scala -> Http
+/Users/ronalddennison/Projects/websocket-akka-http-stage_1/src/main/scala/io/scalac/akka/http/websockets/Server.scala -> IO
 /Users/ronalddennison/Projects/websocket-akka-http-stage_1/src/main/scala/io/scalac/akka/http/websockets/Server.scala -> Marshaller
 /Users/ronalddennison/Projects/websocket-akka-http-stage_1/src/main/scala/io/scalac/akka/http/websockets/Server.scala -> Message
 /Users/ronalddennison/Projects/websocket-akka-http-stage_1/src/main/scala/io/scalac/akka/http/websockets/Server.scala -> Predef
@@ -94,19 +95,18 @@ used names:
 /Users/ronalddennison/Projects/websocket-akka-http-stage_1/src/main/scala/io/scalac/akka/http/websockets/Server.scala -> RoutingLog
 /Users/ronalddennison/Projects/websocket-akka-http-stage_1/src/main/scala/io/scalac/akka/http/websockets/Server.scala -> RoutingSettings
 /Users/ronalddennison/Projects/websocket-akka-http-stage_1/src/main/scala/io/scalac/akka/http/websockets/Server.scala -> RoutingSetup
-/Users/ronalddennison/Projects/websocket-akka-http-stage_1/src/main/scala/io/scalac/akka/http/websockets/Server.scala -> Runtime
 /Users/ronalddennison/Projects/websocket-akka-http-stage_1/src/main/scala/io/scalac/akka/http/websockets/Server.scala -> Server
+/Users/ronalddennison/Projects/websocket-akka-http-stage_1/src/main/scala/io/scalac/akka/http/websockets/Server.scala -> StdIn
+/Users/ronalddennison/Projects/websocket-akka-http-stage_1/src/main/scala/io/scalac/akka/http/websockets/Server.scala -> String
 /Users/ronalddennison/Projects/websocket-akka-http-stage_1/src/main/scala/io/scalac/akka/http/websockets/Server.scala -> StringContext
 /Users/ronalddennison/Projects/websocket-akka-http-stage_1/src/main/scala/io/scalac/akka/http/websockets/Server.scala -> StringMarshaller
 /Users/ronalddennison/Projects/websocket-akka-http-stage_1/src/main/scala/io/scalac/akka/http/websockets/Server.scala -> System
 /Users/ronalddennison/Projects/websocket-akka-http-stage_1/src/main/scala/io/scalac/akka/http/websockets/Server.scala -> TextMessage
-/Users/ronalddennison/Projects/websocket-akka-http-stage_1/src/main/scala/io/scalac/akka/http/websockets/Server.scala -> Thread
 /Users/ronalddennison/Projects/websocket-akka-http-stage_1/src/main/scala/io/scalac/akka/http/websockets/Server.scala -> ToResponseMarshallable
 /Users/ronalddennison/Projects/websocket-akka-http-stage_1/src/main/scala/io/scalac/akka/http/websockets/Server.scala -> Unit
 /Users/ronalddennison/Projects/websocket-akka-http-stage_1/src/main/scala/io/scalac/akka/http/websockets/Server.scala -> actor
 /Users/ronalddennison/Projects/websocket-akka-http-stage_1/src/main/scala/io/scalac/akka/http/websockets/Server.scala -> actorSystem
 /Users/ronalddennison/Projects/websocket-akka-http-stage_1/src/main/scala/io/scalac/akka/http/websockets/Server.scala -> addByNameNullaryApply
-/Users/ronalddennison/Projects/websocket-akka-http-stage_1/src/main/scala/io/scalac/akka/http/websockets/Server.scala -> addShutdownHook
 /Users/ronalddennison/Projects/websocket-akka-http-stage_1/src/main/scala/io/scalac/akka/http/websockets/Server.scala -> akka
 /Users/ronalddennison/Projects/websocket-akka-http-stage_1/src/main/scala/io/scalac/akka/http/websockets/Server.scala -> applicationName
 /Users/ronalddennison/Projects/websocket-akka-http-stage_1/src/main/scala/io/scalac/akka/http/websockets/Server.scala -> apply
@@ -117,56 +117,54 @@ used names:
 /Users/ronalddennison/Projects/websocket-akka-http-stage_1/src/main/scala/io/scalac/akka/http/websockets/Server.scala -> cleanUp
 /Users/ronalddennison/Projects/websocket-akka-http-stage_1/src/main/scala/io/scalac/akka/http/websockets/Server.scala -> complete
 /Users/ronalddennison/Projects/websocket-akka-http-stage_1/src/main/scala/io/scalac/akka/http/websockets/Server.scala -> config
-/Users/ronalddennison/Projects/websocket-akka-http-stage_1/src/main/scala/io/scalac/akka/http/websockets/Server.scala -> currentThread
 /Users/ronalddennison/Projects/websocket-akka-http-stage_1/src/main/scala/io/scalac/akka/http/websockets/Server.scala -> default
 /Users/ronalddennison/Projects/websocket-akka-http-stage_1/src/main/scala/io/scalac/akka/http/websockets/Server.scala -> dispatcher
 /Users/ronalddennison/Projects/websocket-akka-http-stage_1/src/main/scala/io/scalac/akka/http/websockets/Server.scala -> echoService
 /Users/ronalddennison/Projects/websocket-akka-http-stage_1/src/main/scala/io/scalac/akka/http/websockets/Server.scala -> enhanceRouteWithConcatenation
+/Users/ronalddennison/Projects/websocket-akka-http-stage_1/src/main/scala/io/scalac/akka/http/websockets/Server.scala -> exitListen
 /Users/ronalddennison/Projects/websocket-akka-http-stage_1/src/main/scala/io/scalac/akka/http/websockets/Server.scala -> flatMap
 /Users/ronalddennison/Projects/websocket-akka-http-stage_1/src/main/scala/io/scalac/akka/http/websockets/Server.scala -> flowMaterializer
 /Users/ronalddennison/Projects/websocket-akka-http-stage_1/src/main/scala/io/scalac/akka/http/websockets/Server.scala -> fromActorSystem
 /Users/ronalddennison/Projects/websocket-akka-http-stage_1/src/main/scala/io/scalac/akka/http/websockets/Server.scala -> get
-/Users/ronalddennison/Projects/websocket-akka-http-stage_1/src/main/scala/io/scalac/akka/http/websockets/Server.scala -> getRuntime
 /Users/ronalddennison/Projects/websocket-akka-http-stage_1/src/main/scala/io/scalac/akka/http/websockets/Server.scala -> getString
 /Users/ronalddennison/Projects/websocket-akka-http-stage_1/src/main/scala/io/scalac/akka/http/websockets/Server.scala -> getenv
 /Users/ronalddennison/Projects/websocket-akka-http-stage_1/src/main/scala/io/scalac/akka/http/websockets/Server.scala -> handleWebsocketMessages
+/Users/ronalddennison/Projects/websocket-akka-http-stage_1/src/main/scala/io/scalac/akka/http/websockets/Server.scala -> headOption
 /Users/ronalddennison/Projects/websocket-akka-http-stage_1/src/main/scala/io/scalac/akka/http/websockets/Server.scala -> http
 /Users/ronalddennison/Projects/websocket-akka-http-stage_1/src/main/scala/io/scalac/akka/http/websockets/Server.scala -> interface
-/Users/ronalddennison/Projects/websocket-akka-http-stage_1/src/main/scala/io/scalac/akka/http/websockets/Server.scala -> interrupt
 /Users/ronalddennison/Projects/websocket-akka-http-stage_1/src/main/scala/io/scalac/akka/http/websockets/Server.scala -> io
+/Users/ronalddennison/Projects/websocket-akka-http-stage_1/src/main/scala/io/scalac/akka/http/websockets/Server.scala -> isExit
 /Users/ronalddennison/Projects/websocket-akka-http-stage_1/src/main/scala/io/scalac/akka/http/websockets/Server.scala -> isInstanceOf
 /Users/ronalddennison/Projects/websocket-akka-http-stage_1/src/main/scala/io/scalac/akka/http/websockets/Server.scala -> java
-/Users/ronalddennison/Projects/websocket-akka-http-stage_1/src/main/scala/io/scalac/akka/http/websockets/Server.scala -> join
 /Users/ronalddennison/Projects/websocket-akka-http-stage_1/src/main/scala/io/scalac/akka/http/websockets/Server.scala -> lang
 /Users/ronalddennison/Projects/websocket-akka-http-stage_1/src/main/scala/io/scalac/akka/http/websockets/Server.scala -> liftMarshaller
-/Users/ronalddennison/Projects/websocket-akka-http-stage_1/src/main/scala/io/scalac/akka/http/websockets/Server.scala -> mainThread
 /Users/ronalddennison/Projects/websocket-akka-http-stage_1/src/main/scala/io/scalac/akka/http/websockets/Server.scala -> map
 /Users/ronalddennison/Projects/websocket-akka-http-stage_1/src/main/scala/io/scalac/akka/http/websockets/Server.scala -> marshalling
 /Users/ronalddennison/Projects/websocket-akka-http-stage_1/src/main/scala/io/scalac/akka/http/websockets/Server.scala -> model
 /Users/ronalddennison/Projects/websocket-akka-http-stage_1/src/main/scala/io/scalac/akka/http/websockets/Server.scala -> onComplete
 /Users/ronalddennison/Projects/websocket-akka-http-stage_1/src/main/scala/io/scalac/akka/http/websockets/Server.scala -> path
 /Users/ronalddennison/Projects/websocket-akka-http-stage_1/src/main/scala/io/scalac/akka/http/websockets/Server.scala -> pathEndOrSingleSlash
+/Users/ronalddennison/Projects/websocket-akka-http-stage_1/src/main/scala/io/scalac/akka/http/websockets/Server.scala -> poksockets
 /Users/ronalddennison/Projects/websocket-akka-http-stage_1/src/main/scala/io/scalac/akka/http/websockets/Server.scala -> port
 /Users/ronalddennison/Projects/websocket-akka-http-stage_1/src/main/scala/io/scalac/akka/http/websockets/Server.scala -> println
 /Users/ronalddennison/Projects/websocket-akka-http-stage_1/src/main/scala/io/scalac/akka/http/websockets/Server.scala -> qual$1
+/Users/ronalddennison/Projects/websocket-akka-http-stage_1/src/main/scala/io/scalac/akka/http/websockets/Server.scala -> readLine
 /Users/ronalddennison/Projects/websocket-akka-http-stage_1/src/main/scala/io/scalac/akka/http/websockets/Server.scala -> route
 /Users/ronalddennison/Projects/websocket-akka-http-stage_1/src/main/scala/io/scalac/akka/http/websockets/Server.scala -> route2HandlerFlow
 /Users/ronalddennison/Projects/websocket-akka-http-stage_1/src/main/scala/io/scalac/akka/http/websockets/Server.scala -> s
 /Users/ronalddennison/Projects/websocket-akka-http-stage_1/src/main/scala/io/scalac/akka/http/websockets/Server.scala -> scala
-/Users/ronalddennison/Projects/websocket-akka-http-stage_1/src/main/scala/io/scalac/akka/http/websockets/Server.scala -> scalac
 /Users/ronalddennison/Projects/websocket-akka-http-stage_1/src/main/scala/io/scalac/akka/http/websockets/Server.scala -> scaladsl
 /Users/ronalddennison/Projects/websocket-akka-http-stage_1/src/main/scala/io/scalac/akka/http/websockets/Server.scala -> segmentStringToPathMatcher
 /Users/ronalddennison/Projects/websocket-akka-http-stage_1/src/main/scala/io/scalac/akka/http/websockets/Server.scala -> server
 /Users/ronalddennison/Projects/websocket-akka-http-stage_1/src/main/scala/io/scalac/akka/http/websockets/Server.scala -> settings
 /Users/ronalddennison/Projects/websocket-akka-http-stage_1/src/main/scala/io/scalac/akka/http/websockets/Server.scala -> shutdown
 /Users/ronalddennison/Projects/websocket-akka-http-stage_1/src/main/scala/io/scalac/akka/http/websockets/Server.scala -> shutdownAllConnectionPools
-/Users/ronalddennison/Projects/websocket-akka-http-stage_1/src/main/scala/io/scalac/akka/http/websockets/Server.scala -> started
+/Users/ronalddennison/Projects/websocket-akka-http-stage_1/src/main/scala/io/scalac/akka/http/websockets/Server.scala -> shutdown_=
 /Users/ronalddennison/Projects/websocket-akka-http-stage_1/src/main/scala/io/scalac/akka/http/websockets/Server.scala -> stream
 /Users/ronalddennison/Projects/websocket-akka-http-stage_1/src/main/scala/io/scalac/akka/http/websockets/Server.scala -> text
 /Users/ronalddennison/Projects/websocket-akka-http-stage_1/src/main/scala/io/scalac/akka/http/websockets/Server.scala -> toInt
 /Users/ronalddennison/Projects/websocket-akka-http-stage_1/src/main/scala/io/scalac/akka/http/websockets/Server.scala -> txt
 /Users/ronalddennison/Projects/websocket-akka-http-stage_1/src/main/scala/io/scalac/akka/http/websockets/Server.scala -> unbind
-/Users/ronalddennison/Projects/websocket-akka-http-stage_1/src/main/scala/io/scalac/akka/http/websockets/Server.scala -> websockets
 /Users/ronalddennison/Projects/websocket-akka-http-stage_1/src/main/scala/io/scalac/akka/http/websockets/Server.scala -> ws
 /Users/ronalddennison/Projects/websocket-akka-http-stage_1/src/main/scala/io/scalac/akka/http/websockets/Server.scala -> x$10
 /Users/ronalddennison/Projects/websocket-akka-http-stage_1/src/main/scala/io/scalac/akka/http/websockets/Server.scala -> x$11
@@ -179,26 +177,27 @@ used names:
 /Users/ronalddennison/Projects/websocket-akka-http-stage_1/src/main/scala/io/scalac/akka/http/websockets/Server.scala -> x$18
 /Users/ronalddennison/Projects/websocket-akka-http-stage_1/src/main/scala/io/scalac/akka/http/websockets/Server.scala -> x$19
 /Users/ronalddennison/Projects/websocket-akka-http-stage_1/src/main/scala/io/scalac/akka/http/websockets/Server.scala -> x$20
-/Users/ronalddennison/Projects/websocket-akka-http-stage_1/src/main/scala/io/scalac/akka/http/websockets/Server.scala -> x$9
+/Users/ronalddennison/Projects/websocket-akka-http-stage_1/src/main/scala/io/scalac/akka/http/websockets/Server.scala -> x$21
+/Users/ronalddennison/Projects/websocket-akka-http-stage_1/src/main/scala/io/scalac/akka/http/websockets/Server.scala -> ||
 /Users/ronalddennison/Projects/websocket-akka-http-stage_1/src/main/scala/io/scalac/akka/http/websockets/Server.scala -> ~
 product stamps:
 13 items
-/Users/ronalddennison/Projects/websocket-akka-http-stage_1/target/scala-2.11/classes/io/scalac/akka/http/websockets/Server$$anon$1.class -> lastModified(1511599136000)
-/Users/ronalddennison/Projects/websocket-akka-http-stage_1/target/scala-2.11/classes/io/scalac/akka/http/websockets/Server$$anonfun$1$$anonfun$apply$1$$anonfun$apply$2.class -> lastModified(1511599136000)
-/Users/ronalddennison/Projects/websocket-akka-http-stage_1/target/scala-2.11/classes/io/scalac/akka/http/websockets/Server$$anonfun$1$$anonfun$apply$1.class -> lastModified(1511599136000)
-/Users/ronalddennison/Projects/websocket-akka-http-stage_1/target/scala-2.11/classes/io/scalac/akka/http/websockets/Server$$anonfun$1.class -> lastModified(1511599136000)
-/Users/ronalddennison/Projects/websocket-akka-http-stage_1/target/scala-2.11/classes/io/scalac/akka/http/websockets/Server$$anonfun$2$$anonfun$apply$3.class -> lastModified(1511599136000)
-/Users/ronalddennison/Projects/websocket-akka-http-stage_1/target/scala-2.11/classes/io/scalac/akka/http/websockets/Server$$anonfun$2.class -> lastModified(1511599136000)
-/Users/ronalddennison/Projects/websocket-akka-http-stage_1/target/scala-2.11/classes/io/scalac/akka/http/websockets/Server$$anonfun$3.class -> lastModified(1511599136000)
-/Users/ronalddennison/Projects/websocket-akka-http-stage_1/target/scala-2.11/classes/io/scalac/akka/http/websockets/Server$$anonfun$cleanUp$1.class -> lastModified(1511599136000)
-/Users/ronalddennison/Projects/websocket-akka-http-stage_1/target/scala-2.11/classes/io/scalac/akka/http/websockets/Server$$anonfun$cleanUp$2.class -> lastModified(1511599136000)
-/Users/ronalddennison/Projects/websocket-akka-http-stage_1/target/scala-2.11/classes/io/scalac/akka/http/websockets/Server$$anonfun$cleanUp$3.class -> lastModified(1511599136000)
-/Users/ronalddennison/Projects/websocket-akka-http-stage_1/target/scala-2.11/classes/io/scalac/akka/http/websockets/Server$.class -> lastModified(1511599136000)
-/Users/ronalddennison/Projects/websocket-akka-http-stage_1/target/scala-2.11/classes/io/scalac/akka/http/websockets/Server$delayedInit$body.class -> lastModified(1511599136000)
-/Users/ronalddennison/Projects/websocket-akka-http-stage_1/target/scala-2.11/classes/io/scalac/akka/http/websockets/Server.class -> lastModified(1511599136000)
+/Users/ronalddennison/Projects/websocket-akka-http-stage_1/target/scala-2.11/classes/poksockets/Server$$anonfun$1$$anonfun$apply$1$$anonfun$apply$2.class -> lastModified(1511607941000)
+/Users/ronalddennison/Projects/websocket-akka-http-stage_1/target/scala-2.11/classes/poksockets/Server$$anonfun$1$$anonfun$apply$1.class -> lastModified(1511607941000)
+/Users/ronalddennison/Projects/websocket-akka-http-stage_1/target/scala-2.11/classes/poksockets/Server$$anonfun$1.class -> lastModified(1511607941000)
+/Users/ronalddennison/Projects/websocket-akka-http-stage_1/target/scala-2.11/classes/poksockets/Server$$anonfun$2$$anonfun$apply$3.class -> lastModified(1511607941000)
+/Users/ronalddennison/Projects/websocket-akka-http-stage_1/target/scala-2.11/classes/poksockets/Server$$anonfun$2.class -> lastModified(1511607941000)
+/Users/ronalddennison/Projects/websocket-akka-http-stage_1/target/scala-2.11/classes/poksockets/Server$$anonfun$3.class -> lastModified(1511607941000)
+/Users/ronalddennison/Projects/websocket-akka-http-stage_1/target/scala-2.11/classes/poksockets/Server$$anonfun$cleanUp$1.class -> lastModified(1511607941000)
+/Users/ronalddennison/Projects/websocket-akka-http-stage_1/target/scala-2.11/classes/poksockets/Server$$anonfun$cleanUp$2.class -> lastModified(1511607941000)
+/Users/ronalddennison/Projects/websocket-akka-http-stage_1/target/scala-2.11/classes/poksockets/Server$$anonfun$cleanUp$3.class -> lastModified(1511607941000)
+/Users/ronalddennison/Projects/websocket-akka-http-stage_1/target/scala-2.11/classes/poksockets/Server$$anonfun$isExit$1.class -> lastModified(1511607941000)
+/Users/ronalddennison/Projects/websocket-akka-http-stage_1/target/scala-2.11/classes/poksockets/Server$.class -> lastModified(1511607941000)
+/Users/ronalddennison/Projects/websocket-akka-http-stage_1/target/scala-2.11/classes/poksockets/Server$delayedInit$body.class -> lastModified(1511607941000)
+/Users/ronalddennison/Projects/websocket-akka-http-stage_1/target/scala-2.11/classes/poksockets/Server.class -> lastModified(1511607941000)
 source stamps:
 1 items
-/Users/ronalddennison/Projects/websocket-akka-http-stage_1/src/main/scala/io/scalac/akka/http/websockets/Server.scala -> hash(597f30b1c38684eaf1ca1e8f7cdbbf33e86f38d9)
+/Users/ronalddennison/Projects/websocket-akka-http-stage_1/src/main/scala/io/scalac/akka/http/websockets/Server.scala -> hash(8c72ac67de1f20e2464f3fa32b99cad82e2be9d5)
 binary stamps:
 7 items
 /Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1475301657000)
@@ -210,17 +209,17 @@ binary stamps:
 /Users/ronalddennison/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.11.jar -> lastModified(1492113025000)
 class names:
 7 items
-/Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Thread
-/Users/ronalddennison/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.3.11.jar -> akka.actor.Props$
-/Users/ronalddennison/.ivy2/cache/com.typesafe.akka/akka-http-core-experimental_2.11/jars/akka-http-core-experimental_2.11-1.0-RC4.jar -> akka.http.scaladsl.Http$
-/Users/ronalddennison/.ivy2/cache/com.typesafe.akka/akka-http-experimental_2.11/jars/akka-http-experimental_2.11-1.0-RC4.jar -> akka.http.scaladsl.server.directives.WebsocketDirectives
-/Users/ronalddennison/.ivy2/cache/com.typesafe.akka/akka-stream-experimental_2.11/jars/akka-stream-experimental_2.11-1.0-RC4.jar -> akka.stream.ActorMaterializer$
+/Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/ronalddennison/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.3.11.jar -> akka.event.LoggingAdapter
+/Users/ronalddennison/.ivy2/cache/com.typesafe.akka/akka-http-core-experimental_2.11/jars/akka-http-core-experimental_2.11-1.0-RC4.jar -> akka.http.scaladsl.model.HttpResponse
+/Users/ronalddennison/.ivy2/cache/com.typesafe.akka/akka-http-experimental_2.11/jars/akka-http-experimental_2.11-1.0-RC4.jar -> akka.http.scaladsl.server.RoutingSettings
+/Users/ronalddennison/.ivy2/cache/com.typesafe.akka/akka-stream-experimental_2.11/jars/akka-stream-experimental_2.11-1.0-RC4.jar -> akka.stream.scaladsl.Flow$
 /Users/ronalddennison/.ivy2/cache/com.typesafe/config/bundles/config-1.2.1.jar -> com.typesafe.config.Config
 /Users/ronalddennison/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.11.jar -> scala.App
 internal apis:
 1 items
 /Users/ronalddennison/Projects/websocket-akka-http-stage_1/src/main/scala/io/scalac/akka/http/websockets/Server.scala -> 
-rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHB+GYlmAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAACc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwNyBQKXQAEGZsb3dNYXRlcmlhbGl6ZXJzcQB+AAtsj+rRdAALYWN0b3JTeXN0ZW11cQB+AAkAAAAic3EAfgAL9gg33nQABm5vdGlmeXNxAH4AC7RJL2R0AAptYWluVGhyZWFkc3EAfgALOlGqDnQAB2JpbmRpbmdzcQB+AAsbHANedAAEd2FpdHNxAH4ACwWQOCp0AA0kYXNJbnN0YW5jZU9mc3EAfgALOhZo8nQABlNlcnZlcnNxAH4ACynDREV0AAZlcXVhbHNzcQB+AAvhVCnddAAMYXNJbnN0YW5jZU9mc3EAfgALxuJA0nQADmV4ZWN1dGlvblN0YXJ0c3EAfgALotDFzHQAC2VjaG9TZXJ2aWNlc3EAfgALzGxchnQACWludGVyZmFjZXNxAH4AC0OiQ2p0AAxzeW5jaHJvbml6ZWRzcQB+AAuLz/hbdAANJGlzSW5zdGFuY2VPZnNxAH4ACzjOnnt0AA9hcHBsaWNhdGlvbk5hbWVzcQB+AAs8BnkvdAAGY29uZmlnc3EAfgALDj0wtnQABG1haW5zcQB+AAvGhTxndAAJbm90aWZ5QWxsc3EAfgALle2fUnQADGlzSW5zdGFuY2VPZnNxAH4AC4aLbQV0AARwb3J0c3EAfgALcvMKrnQAAj09c3EAfgAL+swB4nQABWNsb25lc3EAfgALtVPsBXQACHRvU3RyaW5nc3EAfgALs0IFWnQABGFyZ3NzcQB+AAtDN5HxdAACIT1zcQB+AAtob8eMdAAFcm91dGVzcQB+AAsM9DLWdAAIZ2V0Q2xhc3NzcQB+AAtULIPhdAAHc3RhcnRlZHNxAH4AC3CEPMt0AAJuZXNxAH4AC39lw0R0AAdjbGVhblVwc3EAfgAL8Yk+2HQAAmVxc3EAfgALRqY1knQAC2RlbGF5ZWRJbml0c3EAfgALHbLpznQAAiMjc3EAfgALjIp2tHQACGZpbmFsaXplc3EAfgAL6INfXHQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AX3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AAx4cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHQAJWlvLnNjYWxhYy5ha2thLmh0dHAud2Vic29ja2V0cy5TZXJ2ZXJ1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAACdAAQc2NhbGEuZGVwcmVjYXRlZHQAGnNjYWxhLmRlcHJlY2F0ZWRPdmVycmlkaW5nc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgB6eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgB5AHBzcQB+AH5zcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AX0wACWluaGVyaXRlZHEAfgBfTAAHcGFyZW50c3EAfgBfeHEAfgCCc3EAfgB5AHBzcQB+AH51cQB+AFoAAAAAc3EAfgB5AHBzcQB+AH51cQB+AFoAAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AGBxAH4AaXVxAH4AagAAAAFzcgAUeHNidGkuYXBpLkFubm90YXRpb27eDoGi9lwKsgIAAlsACWFyZ3VtZW50c3QAH1tMeHNidGkvYXBpL0Fubm90YXRpb25Bcmd1bWVudDtMAARiYXNlcQB+AI94cHVyAB9bTHhzYnRpLmFwaS5Bbm5vdGF0aW9uQXJndW1lbnQ7UZ2mjzglD3gCAAB4cAAAAAFzcgAceHNidGkuYXBpLkFubm90YXRpb25Bcmd1bWVudNZFsdgDGxd8AgACTAAEbmFtZXEAfgAMTAAFdmFsdWVxAH4ADHhwdAAAdAAqKCJtYWluIHNob3VsZCBub3QgYmUgb3ZlcnJpZGRlbiIsIjIuMTEuMCIpc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgAMTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AgXQAFGRlcHJlY2F0ZWRPdmVycmlkaW5nc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgCBc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADHhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCpc3EAfgBsAHEAfgAxdXEAfgBvAAAAAHNxAH4AnHQABFVuaXRxAH4AonVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgAMTAADdHBlcQB+AI94cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AHJ0AAVQbGFpbnEAfgA/c3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgCdWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgCBc3EAfgCcdAAFQXJyYXlxAH4AonVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgCcdAAGU3RyaW5nc3EAfgCgc3EAfgCjdXEAfgCmAAAAA3NxAH4AqHQABGphdmFzcQB+AKh0AARsYW5ncQB+AK1zcQB+AHkAcHNxAH4AfnVxAH4AxAAAAARzcQB+AJx0AANBcHBxAH4AonNxAH4AnHQAC0RlbGF5ZWRJbml0cQB+AKJzcQB+AJx0AAZPYmplY3RxAH4AyHNxAH4AnHQAA0FueXEAfgCidXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAVzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADHhwdAAeaW8uc2NhbGFjLmFra2EuaHR0cC53ZWJzb2NrZXRzc3EAfgDcdAAOaW8uc2NhbGFjLmFra2FzcQB+ANx0AAJpb3NxAH4A3HQACWlvLnNjYWxhY3NxAH4A3HQAE2lvLnNjYWxhYy5ha2thLmh0dHBzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAV/yVEyMdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgAMTAAPc291cmNlRGlyZWN0b3J5cQB+AAx4cHQAVC9Vc2Vycy9yb25hbGRkZW5uaXNvbi9Qcm9qZWN0cy93ZWJzb2NrZXQtYWtrYS1odHRwLXN0YWdlXzEvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFFl/MLHDhoTq8coej3zbvzPobzjZ
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCZ7b79AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAACc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwEVAfs3QAEGZsb3dNYXRlcmlhbGl6ZXJzcQB+AAuTLB6gdAALYWN0b3JTeXN0ZW11cQB+AAkAAAAjc3EAfgAL/CFg/XQABmlzRXhpdHNxAH4AC5mNjpF0AAZub3RpZnlzcQB+AAsuyGsSdAAHYmluZGluZ3NxAH4AC1Cqt590AAR3YWl0c3EAfgAL9DyLg3QADSRhc0luc3RhbmNlT2ZzcQB+AAuHgNHidAAGU2VydmVyc3EAfgAL7u8IbXQABmVxdWFsc3NxAH4AC2fwTjR0AAxhc0luc3RhbmNlT2ZzcQB+AAvJvoOXdAAOZXhlY3V0aW9uU3RhcnRzcQB+AAvAh+R6dAALZWNob1NlcnZpY2VzcQB+AAvVjxzJdAAJaW50ZXJmYWNlc3EAfgALWcS2RXQACmV4aXRMaXN0ZW5zcQB+AAv8HFgJdAAMc3luY2hyb25pemVkc3EAfgALJISZ5HQADSRpc0luc3RhbmNlT2ZzcQB+AAsziNdydAAPYXBwbGljYXRpb25OYW1lc3EAfgALXQTB+nQABmNvbmZpZ3NxAH4AC57XpPR0AARtYWluc3EAfgALjO5YeXQACW5vdGlmeUFsbHNxAH4AC8Hw2Vx0AAxpc0luc3RhbmNlT2ZzcQB+AAu8GqxOdAAIc2h1dGRvd25zcQB+AAsmwgFKdAAEcG9ydHNxAH4ACwS1CR50AAI9PXNxAH4AC5bXjWF0AAVjbG9uZXNxAH4AC1c1Svh0AAh0b1N0cmluZ3NxAH4AC3J3g/d0AARhcmdzc3EAfgAL66eoiHQAAiE9c3EAfgALJMKStXQABXJvdXRlc3EAfgALGYphFHQACGdldENsYXNzc3EAfgALOSbDnnQAAm5lc3EAfgALqw3oI3QAB2NsZWFuVXBzcQB+AAvXzk5IdAACZXFzcQB+AAvHi8rPdAALZGVsYXllZEluaXRzcQB+AAtpIqZFdAACIyNzcQB+AAuBMFnBdAAIZmluYWxpemVzcQB+AAty0KOIdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBheHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADHhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAARcG9rc29ja2V0cy5TZXJ2ZXJ1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAACdAAQc2NhbGEuZGVwcmVjYXRlZHQAGnNjYWxhLmRlcHJlY2F0ZWRPdmVycmlkaW5nc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgB8eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgB7AHBzcQB+AIBzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AYUwACWluaGVyaXRlZHEAfgBhTAAHcGFyZW50c3EAfgBheHEAfgCEc3EAfgB7AHBzcQB+AIB1cQB+AFwAAAAAc3EAfgB7AHBzcQB+AIB1cQB+AFwAAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AGJxAH4Aa3VxAH4AbAAAAAFzcgAUeHNidGkuYXBpLkFubm90YXRpb27eDoGi9lwKsgIAAlsACWFyZ3VtZW50c3QAH1tMeHNidGkvYXBpL0Fubm90YXRpb25Bcmd1bWVudDtMAARiYXNlcQB+AJF4cHVyAB9bTHhzYnRpLmFwaS5Bbm5vdGF0aW9uQXJndW1lbnQ7UZ2mjzglD3gCAAB4cAAAAAFzcgAceHNidGkuYXBpLkFubm90YXRpb25Bcmd1bWVudNZFsdgDGxd8AgACTAAEbmFtZXEAfgAMTAAFdmFsdWVxAH4ADHhwdAAAdAAqKCJtYWluIHNob3VsZCBub3QgYmUgb3ZlcnJpZGRlbiIsIjIuMTEuMCIpc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgAMTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4Ag3QAFGRlcHJlY2F0ZWRPdmVycmlkaW5nc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgCDc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADHhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCrc3EAfgBuAHEAfgAzdXEAfgBxAAAAAHNxAH4AnnQABFVuaXRxAH4ApHVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgAMTAADdHBlcQB+AJF4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AHR0AAVQbGFpbnEAfgBDc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgCfWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgCDc3EAfgCedAAFQXJyYXlxAH4ApHVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgCedAAGU3RyaW5nc3EAfgCic3EAfgCldXEAfgCoAAAAA3NxAH4AqnQABGphdmFzcQB+AKp0AARsYW5ncQB+AK9zcQB+AHsAcHNxAH4AgHVxAH4AxgAAAARzcQB+AJ50AANBcHBxAH4ApHNxAH4AnnQAC0RlbGF5ZWRJbml0cQB+AKRzcQB+AJ50AAZPYmplY3RxAH4AynNxAH4AnnQAA0FueXEAfgCkdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADHhwdAAKcG9rc29ja2V0c3NyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABX/Lap0N1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AAxMAA9zb3VyY2VEaXJlY3RvcnlxAH4ADHhwdABUL1VzZXJzL3JvbmFsZGRlbm5pc29uL1Byb2plY3RzL3dlYnNvY2tldC1ha2thLWh0dHAtc3RhZ2VfMS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUjHKsZ94fIOJGTz+jK5nK2C4r6dU=
 external apis:
 0 items
 source infos:
@@ -229,4 +228,4 @@ source infos:
 AAAAAAAAAAA=
 compilations:
 1 items
-0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABX/JUTIx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAVC9Vc2Vycy9yb25hbGRkZW5uaXNvbi9Qcm9qZWN0cy93ZWJzb2NrZXQtYWtrYS1odHRwLXN0YWdlXzEvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABX/Lap0N1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAVC9Vc2Vycy9yb25hbGRkZW5uaXNvbi9Qcm9qZWN0cy93ZWJzb2NrZXQtYWtrYS1odHRwLXN0YWdlXzEvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=

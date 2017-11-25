@@ -1,11 +1,11 @@
-package io.scalac.akka.http.websockets
+package poksockets
 
 import akka.actor.ActorSystem
 import akka.http.scaladsl.Http
 import akka.http.scaladsl.server.Directives
 import akka.stream.ActorMaterializer
 
-//import scala.io.StdIn
+import scala.io.StdIn
 import akka.http.scaladsl.model.ws.{Message, TextMessage}
 import akka.stream.scaladsl.Flow
 
@@ -14,12 +14,12 @@ import akka.stream.scaladsl.Flow
 
 
 import akka.actor.{Props, ActorSystem}
-//import akka.io.IO
+import akka.io.IO
 //import org.apache.commons.daemon._
 
 object Server extends App {
 
-  private[this] var started: Boolean = true
+  private var shutdown: Boolean = false
 
   val applicationName = "test-sockets"
   implicit val actorSystem = ActorSystem(applicationName)
@@ -56,30 +56,41 @@ object Server extends App {
 
   println(s"Server is now online at http://$interface:$port")
 
-  val mainThread = Thread.currentThread();
+  // Exit on Ctrl-D
+  def isExit(s: String): Boolean = (s == null) || s.headOption.map(_.toInt) == Some(4)
 
-  Runtime.getRuntime.addShutdownHook(new Thread() {
-    override def run = {
+  exitListen()
 
-      if (started) {
-        println(s"Shutting down: $applicationName Service")
-        started = false
-        mainThread.join()
-        cleanUp();
-        Thread.currentThread.interrupt()
-      }
-    }})
 
+  def exitListen() {
+
+    StdIn.readLine match {
+      case x if isExit(x) => shutdown = true; println("Shutting down") ; cleanUp()
+      case _              => println("No way out"); exitListen
+    }
+
+  }
+//  val mainThread = Thread.currentThread();
+
+//  Runtime.getRuntime.addShutdownHook(new Thread() {
+//    override def run = {
+//  }})
 
   def cleanUp() {
+    if (shutdown) {
 
-    import actorSystem.dispatcher
+      println("Shutting down") ;
 
-    println(s"Releasing bindings")
-    binding.flatMap(_.unbind()).onComplete(_ => actorSystem.shutdown())
-    Http().shutdownAllConnectionPools() ; //andThen { case _ => actorSystem.shutdown() }
-//    actorSystem.shutdown()
-    complete("Shutting down app")
+      import actorSystem.dispatcher
+
+      binding.flatMap(_.unbind()).onComplete(_ => actorSystem.shutdown())
+      Http().shutdownAllConnectionPools() ; //andThen { case _ => actorSystem.shutdown() }
+
+//      mainThread.join()
+//      Thread.currentThread.interrupt()
+      complete("Shutting down app")
+    }
+
 
   }
 
