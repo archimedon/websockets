@@ -4,7 +4,7 @@
 		module="websocket-akka-http_2.11"
 		revision="0.1.0-SNAPSHOT"
 		status="integration"
-		publication="20171125030536"
+		publication="20171125031328"
 	>
 		<description>
 		websocket-akka-http
