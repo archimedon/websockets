@@ -29,9 +29,9 @@ object Server extends App {
   val interface = config.getString("app.interface")
 
   //  val port = sys.env("PORT").toInt
-  val port =
-    if (sys.env.contains("PORT")) sys.env("PORT").toInt
-    else config.getInt("app.port")
+  val port = 8080;
+//    if (sys.env.contains("PORT")) sys.env("PORT").toInt
+//    else config.getInt("app.port")
 
   import Directives._
 
