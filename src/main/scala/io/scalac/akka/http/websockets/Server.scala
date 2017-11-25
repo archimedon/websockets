@@ -28,8 +28,9 @@ object Server extends App {
   val config = actorSystem.settings.config
   val interface = config.getString("app.interface")
 
-  //  val port = sys.env("PORT").toInt
-  val port = 8080;
+  val port = sys.env("PORT").toInt
+  
+//  val port = 8080;
 //    if (sys.env.contains("PORT")) sys.env("PORT").toInt
 //    else config.getInt("app.port")
 
