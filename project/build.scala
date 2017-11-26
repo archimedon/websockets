@@ -1,6 +1,6 @@
 import sbt._
 import Keys._
-import com.typesafe.sbt.packager.archetypes.JavaAppPackaging
+import com.typesafe.sbt.packager.archetypes.JavaServerAppPackaging
 
 object HerokuExampleBuild extends Build {
   val Organization = "org.ronnied"
@@ -51,5 +51,5 @@ object HerokuExampleBuild extends Build {
           "com.typesafe.akka" %% "akka-http-experimental" % akkaHttpVersion
         )
     )
-  ).enablePlugins(JavaAppPackaging)
+  ).enablePlugins(JavaServerAppPackaging)
 }
